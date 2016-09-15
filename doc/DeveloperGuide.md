@@ -44,9 +44,12 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | new user | see usage instructions | refer to instructions when I forget how to use the App
 `* * *` | user | add a new person |
 `* * *` | user | delete a person | remove entries that I no longer need
+`* * *` | user | edit a person | edit entries without re-access.
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
+`* *` | user | add multiple email, phone numbers and addresses per person | to prevent duplicate data entries entered under the same person or name
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | sort by groups | locate a groups of personal easily
 
 
 ## Appendix B : Use Cases
